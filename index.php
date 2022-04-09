@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Esto es una prueba
+    <div class="container">Esto es una prueba</div>
 </body>
 </html>
